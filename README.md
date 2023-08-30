@@ -24,9 +24,6 @@ For remote server deployment:
     
     $ gcloud init
     $ gcloud app deploy app.yaml --project "Nombre del proyecto"
-    
-    
-  ![Screenshot](https://github.com/DavidReveloLuna/API_Gcloud_Streamlit/blob/master/assets/Screenshot.png)
 
 ## Acknowledgments
 
